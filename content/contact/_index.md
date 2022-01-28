@@ -1,7 +1,32 @@
 ---
-title: "Contact"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-image: "images/contact.jpg"
+title: Contact
+date: 2019-05-14T14:46:10.000+06:00
+description: This is meta description
+image: images/contact.jpg
+
 ---
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.<br><br>When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+**The Bible Educator**
+
+Recordings and messages by Pastor George Southwick. 
+
+**Links:**
+
+☐ [TruthInHistory.org](http://www.truthinhistory.org/)
+
+☐ [Historicist.com](http://www.historicist.com/)
+
+☐ [Valid XHTML](http://validator.w3.org/check/referer)
+
+☐ [Valid CSS](http://jigsaw.w3.org/css-validator/check/referer)
+
+**Contact:**
+
+The Bible Educator
+
+PO BOX 808
+
+Owasso, OK
+
+74055-0808
+
+**"Proclaiming Jesus Christ as Prophet, Priest and King!"**
