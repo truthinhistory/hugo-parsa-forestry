@@ -1,56 +1,60 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-5.jpg"
-categories: 
-  - "Nature"
+title: The Destruction of Sennacherib
+date: 2022-01-28T00:00:00-06:00
+description: Angel of Lord Slays Assyrian Army
+type: featured
+image: "/images/depositphotos_105719392_xl.jpg"
+categories:
+- Nature
 tags:
-  - "Fashion"
-  - "Nature"
+- Fashion
+- Nature
+
 ---
+**The Destruction of Sennacherib**
 
+**Isaiah 37:36-38**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+The Assyrian came down like the wolf on the fold, And his cohorts were gleaming with purple and gold, And the sheen of their spears was like stars on the sea, When the blue wave rolls nightly on deep Galilee.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Like the leaves of the forest when Summer is green, That host with banners at sunset were seen.
 
+Like the leaves of the forest when Autumn hath blown,
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+That host on the morrow lay withered and strown:
 
+For the Angel of death spread his wings on the blast,
 
-![](../images/post-img.jpg)
+And breathed in the face of the foe as he passed.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Then the eyes of the sleepers waxed deadly and chill,
 
+And their hearts but once heaved, and forever grew still.
 
+Then there lay the steed with his nostril all wide;
+
+Yet through it there rolled not the breath of his pride;
+
+But the foam of his gasping lay white on the turf,
+
+And cold as the spray on the rock beaten surf.
+
+And there lay the rider, distorted and pale,
+
+With the dew on his brow, and the rust on his mail;
+
+And the tents were all silent, the banners alone,
+
+And the lances uplifted, the trumpet un-blown.
+
+And the widows of Asher were loud in their wail,
+
+And the idols were broke in the temple of Baal;
+
+For the might of the Gentile, unsmote by the sword,
+
+Lay melted like snow in the glance of the Lord.
+
+by Lord George Gordon Byron
+
+1788-1824
