@@ -1,9 +1,9 @@
 ---
 title: Quotes by Famous Men
 date: 2022-01-28T00:00:00-06:00
-description: This is meta description
+description: Old books, scrolls, ink pen and inkwell on wooden table on brown background
 type: featured
-image: images/featured-post/post-1.jpg
+image: "/images/depositphotos_11869479_xl.jpg"
 categories:
 - Valuable Idea
 tags:
