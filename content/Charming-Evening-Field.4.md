@@ -1,9 +1,9 @@
 ---
-title: Charming Evening Field
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: Admonitions for Intellectual Honesty
+date: 2022-01-28T00:00:00-06:00
+description: Integrity in dictionary
 type: post
-image: images/masonary-post/post-5.jpg
+image: "/images/depositphotos_33253185_xl.jpg"
 categories:
 - Food
 tags:
