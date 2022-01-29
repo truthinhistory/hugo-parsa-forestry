@@ -1,9 +1,9 @@
 ---
-title: Charming Evening Field
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: Where is Israel?
+date: 2022-01-28T00:00:00-06:00
+description: Second Temple. Model of the ancient Jerusalem
 type: post
-image: images/masonary-post/post-12.jpg
+image: "/images/depositphotos_18217195_xl.jpg"
 categories:
 - Food
 tags:
@@ -11,43 +11,29 @@ tags:
 - Food
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Men don't believe in the Bible now, as they really ought to do  
+They've locked the door on the "chosen race" and won't let "my nation" through  
+There isn't a print of Israel's foot or a dart from Joseph's bow  
+To be found in earth or in air today, for "the church" has voted it so.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+But who owns "the gates" of the world today? Who is it rules the waves?  
+Who dwells alone in the "appointed place," while the enemy hates and raves?  
+Who stands today in the thick of the fight, oppression and sin to quell?  
+If it isn't the hosts of the living God, won't somebody rise and tell?
 
+Who sends God's Word around the world, to prepare the path for our Savior's feet?  
+Who frees the captives and plants the rose, who is reigning from David's seat?  
+So Israel is voted not to be, of course this is untrue  
+For who is doing the kind of work, Israel alone can do?
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+We're told the church takes Israel's place; but the Bible plainly says  
+A kingdom of stone that's cut out for His own, shall stand till the end of days  
+Who owns and carries the flags that wave, to the earth's remotest bounds?  
+If Israel by a unanimous vote, is nowhere to be found?
 
+Won't somebody step to the front, forthwith and make his bow and show  
+Where the chief of the nations is today? We very much want to know.  
+For Israel is blindly voted out; and Israel 'tis said is gone  
+But the Anglo Saxons would like to know, who carries God's business on.
 
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+\---Author Unknown
