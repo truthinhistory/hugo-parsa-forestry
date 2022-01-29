@@ -1,9 +1,9 @@
 ---
 title: The Prophet
 date: 2022-01-28T00:00:00-06:00
-description: This is meta description
+description: The Prophet
 type: featured
-image: ''
+image: "/images/depositphotos_22520023_xl.jpg"
 categories:
 - Philosophy
 tags:
