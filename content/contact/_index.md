@@ -1,13 +1,13 @@
 ---
 title: Contact
-date: 2019-05-14T14:46:10.000+06:00
-description: Contact The Bible Educator
+date: 2022-01-28T00:00:00-06:00
+description: Contact the ministry
 image: images/contact.jpg
 
 ---
 **The Bible Educator**
 
-Recordings and messages by Pastor George Southwick. 
+Recordings and messages by Pastor George Southwick.
 
 **Links:**
 
@@ -17,10 +17,9 @@ Recordings and messages by Pastor George Southwick.
 
 **Contact:**
 
-The Bible Educator
-
-PO BOX 808
-Owasso, OK
+The Bible Educator  
+PO BOX 808  
+Owasso, OK  
 74055-0808
 
 **"Proclaiming Jesus Christ as Prophet, Priest and King!"**

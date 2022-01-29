@@ -1,16 +1,15 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-3.jpg"
-categories: 
-  - "Fashion"
+title: Salvation through Jesus Christ
+date: 2022-01-28T00:00:00-06:00
+description: Salvation through Jesus Christ
+type: featured
+image: "/images/depositphotos_39619909_xl.jpg"
+categories:
+- Jesus
 tags:
-  - "Fashion"
+- Jesus
+
 ---
-
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
 ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
@@ -51,5 +50,3 @@ dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur au
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.
-
-
