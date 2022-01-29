@@ -1,9 +1,9 @@
 ---
 title: The Great Jubilee
 date: 2022-01-28T00:00:00-06:00
-description: This is meta description
+description: Holy Spirit
 type: post
-image: images/masonary-post/post-11.jpg
+image: "/images/depositphotos_68878617_xl.jpg"
 categories:
 - Food
 tags:
