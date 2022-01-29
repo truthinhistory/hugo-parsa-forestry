@@ -1,9 +1,9 @@
 ---
-title: Charming Evening Field
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: A Prayer for America
+date: 2022-01-28T00:00:00-06:00
+description: Coin of Silver American Money - In God We Trust
 type: post
-image: images/masonary-post/post-8.jpg
+image: "/images/depositphotos_39457977_xl.jpg"
 categories:
 - Food
 tags:
@@ -11,43 +11,23 @@ tags:
 - Food
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**A Prayer for America**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+  
+**By Pastor George W. Southwick, D.D.**
 
+Our Father, which art in heaven, we have not hallowed Thy Name, we are in a storm, Thy mournful remnant is in anguish. LORD, in wrath remember mercy.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+Gather America under the shadow of Thy wing. Look upon us who have eaten the fruit of lies. Turn us, we pray, to seek Thy face and Thy way. We confess now our sins, for vain and fruitless is mortal strength. Evil and wickedness now fills our land and cities. We know not where to turn in this dark hour, but unto Thee.
 
+Look down upon our unemployed, the widow and the orphan. Visit the sick and the wounded, the afflicted with wounds and putrefying sores. Pity the poor, the downtrodden, and the debt ridden. Oh God, our help in ages past, be Thou now our hope. Have regard in us. Send forth now Thy saving health.
 
-![](../images/post-img.jpg)
+God, in whom we trust, guide our ship of state - which is now drifting helplessly upon jagged rocks. Let Thy grace and glory shine forth like a beacon light. Are we to be devoured, swallowed up in the belly of the beast our of the sea?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+LORD, take Thou the help of our nation. Bring us to safe harbor, "home." Give unto our leaders wisdom with right understanding. Remove far from us, wicked and greedy politicians. Sweep them all away with the besom of Thy destruction. Drive out the money changers from the 'temple.' Curse now, with Thy cursings, the "almighty dollar." Dethrone mammon from all hearts. Teach unto our judges the meaning of justice from now on, upon ungodly lawyers and unrighteous judgements.
+
+Deliver us from preachers and false prophets who feed themselves, and not the flock of God. Make our nation free from the gangster's yoke. Deliver us from all crime and hate - this demonic frenzy! Bundle for burning all noxious tares - injurious tumble weeds. Cause the noise from the beast to cease from our environment. Make our land a Beulah, safe for our children.
+
+Send forth Thy light and Thy truth. Be Thou our salvation, for we are perishing!
+
+In Jesus Name, Amen
