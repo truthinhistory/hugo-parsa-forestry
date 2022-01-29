@@ -1,56 +1,46 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-4.jpg"
-categories: 
-  - "Article"
+title: Organize Your Life With 10 Simple rule
+date: 2019-05-14T14:46:10.000+06:00
+description: This is meta description
+type: featured
+image: images/featured-post/post-4.jpg
+categories:
+- Article
 tags:
-  - "Photos"
-  - "Article"
+- Photos
+- Article
+
 ---
+**Where are the Classmates of Yesterday?**
 
+Where are the classmates of yesterday?  
+The children we knew in school . . .  
+Oh, what has become of the studious one?  
+And where oh where is the fool?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Oh, what has become of the orator . . .  
+Whose passion it was to recite?  
+And the bashful kid who could speak no piece . . .  
+Unless he succumbed to fright?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+And what has become of the teacher’s pet . . .  
+Who was always so perfect and right?  
+And what oh what, of the tough young nut . . .  
+Who loved nothing more than a fight?
 
+The studious one - - - so we’ve been told . . .  
+Is driving a cab these days.  
+While the fool owns stock in a bank or two  
+And a business that always pays.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+The orator works in a grocery store . . .  
+Selling tea and rubber bands.  
+While the bashful kid is a Senator . . .  
+Proclaimed throughout all the land.
 
+The teacher’s pet is behind bars . . .  
+For stealing a neighbor’s cow.  
+And what of the tough young nut?  
+Why - - - He’s a Preacher now!
 
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+**Presented by: Pastor George W. Southwick**
