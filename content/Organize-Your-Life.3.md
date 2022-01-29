@@ -1,9 +1,9 @@
 ---
-title: Organize Your Life With 10 Simple rule
+title: Where are the Classmates of Yesterday?
 date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+description: School room empty chairs
 type: featured
-image: images/featured-post/post-4.jpg
+image: "/images/depositphotos_128485498_xl.jpg"
 categories:
 - Article
 tags:
