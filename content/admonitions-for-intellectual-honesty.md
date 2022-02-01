@@ -1,14 +1,11 @@
 ---
 title: Admonitions for Intellectual Honesty
-date: 2022-01-28T00:00:00-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: Integrity in dictionary
 type: post
 image: "/images/depositphotos_33253185_xl.jpg"
-categories:
-- Food
-tags:
-- Photos
-- Food
+categories: []
+tags: []
 
 ---
 \*Admonitions for Intellectual Honesty*
