@@ -1,14 +1,11 @@
 ---
 title: Quotes by Famous Men
-date: 2022-01-28T00:00:00-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: Old books, scrolls, ink pen and inkwell on wooden table on brown background
 type: featured
 image: "/images/depositphotos_11869479_xl.jpg"
-categories:
-- Valuable Idea
-tags:
-- Photos
-- Finance
+categories: []
+tags: []
 
 ---
 **Quotes by Famous Men**
