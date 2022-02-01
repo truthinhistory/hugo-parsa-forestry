@@ -1,14 +1,11 @@
 ---
 title: Revive Us Again - 1863
-date: 2022-01-28T00:00:00-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: Emergency at hospital
 type: post
 image: "/images/depositphotos_2601105_xl.jpg"
-categories:
-- Food
-tags:
-- Photos
-- Food
+categories: []
+tags: []
 
 ---
 **By Robert J. Morgan**
