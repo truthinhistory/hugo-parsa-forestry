@@ -44,10 +44,10 @@ params:
   layout: "1"
   description: Sermons and articles from George W. Southwick
   preloader: true
-  search: true
-  author: 
+  search: false
+  author: George W. Southwick
   author_image: images/banner-img.png
-  bio: Rev. George William Southwick, D.D
+  bio: Rev. George William Southwick, D.D.
   mobile: 866-645-2921
   email: cmdjen@juno.com
   address: PO BOX 808 Owasso, OK 74055-0808
