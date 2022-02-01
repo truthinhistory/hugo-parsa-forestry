@@ -1,14 +1,11 @@
 ---
 title: The 23rd Channel
-date: 2022-01-28T00:00:00-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: TV watching football with feet on table
 type: post
 image: "/images/depositphotos_70743025_xl.jpg"
-categories:
-- Food
-tags:
-- Photos
-- Food
+categories: []
+tags: []
 
 ---
 **The 23rd Channel**

@@ -1,13 +1,11 @@
 ---
 title: Salvation through Jesus Christ
-date: 2022-01-28T00:00:00.000-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: Salvation through Jesus Christ
 type: featured
 image: "/images/depositphotos_39619909_xl.jpg"
-categories:
-- Jesus
-tags:
-- Jesus
+categories: []
+tags: []
 
 ---
 **Salvation through Jesus Christ**
