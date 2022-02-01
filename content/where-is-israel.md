@@ -1,14 +1,11 @@
 ---
 title: Where is Israel?
-date: 2022-01-28T00:00:00-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: Second Temple. Model of the ancient Jerusalem
 type: post
 image: "/images/depositphotos_18217195_xl.jpg"
-categories:
-- Food
-tags:
-- Photos
-- Food
+categories: []
+tags: []
 
 ---
 Men don't believe in the Bible now, as they really ought to do  
