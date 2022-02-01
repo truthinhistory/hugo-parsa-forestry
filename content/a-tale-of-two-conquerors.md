@@ -1,14 +1,11 @@
 ---
 title: " A Tale of 2 Conquerors"
-date: 2022-01-28T00:00:00-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: Statue of Alexander the Great at Thessaloniki city in Greece
 type: post
 image: "/images/depositphotos_41049529_xl.jpg"
-categories:
-- Food
-tags:
-- Photos
-- Food
+categories: []
+tags: []
 
 ---
 Jesus and Alexander died at thirty-three!
