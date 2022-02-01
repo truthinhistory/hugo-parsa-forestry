@@ -1,14 +1,11 @@
 ---
 title: The Prophet
-date: 2022-01-28T00:00:00-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: The Prophet
 type: featured
 image: "/images/depositphotos_22520023_xl.jpg"
-categories:
-- Philosophy
-tags:
-- Philosophy
-- Photos
+categories: []
+tags: []
 
 ---
 The prophet in his day is fully accepted of God and totally rejected by men.
