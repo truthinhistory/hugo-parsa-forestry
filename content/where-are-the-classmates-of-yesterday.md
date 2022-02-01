@@ -1,14 +1,11 @@
 ---
 title: Where are the Classmates of Yesterday?
-date: 2022-01-28T00:00:00-06:00
+date: '2022-01-28T00:00:00.000-06:00'
 description: School room empty chairs
 type: featured
 image: "/images/depositphotos_128485498_xl.jpg"
-categories:
-- Article
-tags:
-- Photos
-- Article
+categories: []
+tags: []
 
 ---
 **Where are the Classmates of Yesterday?**
