@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '6'
+summaryLength: "10"
+paginate: "12"
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: '1'
+  layout: "1"
   description: Sermons and articles from George W. Southwick
   preloader: true
   search: true
@@ -64,10 +64,10 @@ menu:
   main:
   - url: https://m.soundcloud.com/truth-in-history/sets/george-w-southwick
     name: Sermon Archive
-    weight: 3
+    weight: "3"
   - URL: contact
     name: Contact
-    weight: 2
+    weight: "2"
   - URL: about
     name: About
-    weight: 1
+    weight: "1"
