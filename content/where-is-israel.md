@@ -3,7 +3,7 @@ title: Where is Israel?
 date: '2022-01-28T00:00:00.000-06:00'
 description: Second Temple. Model of the ancient Jerusalem
 type: post
-image: "/images/depositphotos_18217195_xl.jpg"
+image: "/images/temple.jpg"
 categories: []
 tags: []
 
