@@ -3,13 +3,11 @@ title: The 23rd Channel
 date: '2022-01-28T00:00:00.000-06:00'
 description: TV watching football with feet on table
 type: post
-image: "/images/depositphotos_70743025_xl.jpg"
+image: "/images/television.jpg"
 categories: []
 tags: []
 
 ---
-**The 23rd Channel**
-
 The TV set is my shepherd. My spiritual growth shall want.
 
 It makes me to sit down and do nothing for His name’s sake, because it requireth all my spare time. It keepeth me from doing my duty as a Christian because it presenteth so many shows that I must see.
