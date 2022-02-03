@@ -58,6 +58,8 @@ params:
     enable: false
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
+  - icon: ti-soundcloud
+    URL: https://soundcloud.com/truth-in-history
   - icon: ti-rss-alt
     URL: https://thebibleeducator.org/index.xml
 menu:
