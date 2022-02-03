@@ -57,9 +57,7 @@ params:
   instafeed:
     enable: false
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
-  social:
-  - icon: ti-facebook
-    URL: "#"
+  social: []
 menu:
   main:
   - url: https://m.soundcloud.com/truth-in-history/sets/george-w-southwick
