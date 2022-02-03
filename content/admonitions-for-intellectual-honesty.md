@@ -8,9 +8,7 @@ categories: []
 tags: []
 
 ---
-\*Admonitions for Intellectual Honesty*
-
-“There is a principle which is a bar against all information, which is proof against all argument, and which cannot fail to keep a man or woman in everlasting ignorance. This principle is ‘contempt prior to investigation’.” 
+“There is a principle which is a bar against all information, which is proof against all argument, and which cannot fail to keep a man or woman in everlasting ignorance. This principle is ‘contempt prior to investigation’.”
 
 \-- Dr. Paley
 
@@ -21,10 +19,6 @@ tags: []
 “The man who will not investigate both sides of a question is dishonest.”
 
 \-- ABRAHAM LINCOLN
-
- 
-
- 
 
 “Once people are trained in a particular theory, they become emotionally wedded to it. They can be literally incapable of seeing anything that contradicts it, and will invent the most amazing rationalizations. That’s why you have to wait for a generation to die off before you can move on.”
 
