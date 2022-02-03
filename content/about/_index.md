@@ -2,13 +2,9 @@
 title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: About George W. Southwick
-image: "/images/screenshot-2022-01-17-at-5-40-58-pm.png"
+image: "/images/george-southwick.jpg"
 
 ---
-**Biography**
-
-**Bio: Rev. George William Southwick, D.D.**
-
 **December 1, 1918 – January 21, 2006**
 
 George was born as the third son to Frank Herbert and Ida May Southwick in Lakeland, Florida, December 1, 1918. His parents owned an orange grove farm and he had many happy hours playing as a youngster with his brothers, friends and pets. He also had a Nanny until he was four years old. The Southwick name was important in United States history, from the time of Lawrence and Cassandra Southwick, who brought about many of the religious freedoms in the United States because of the persecution they endured. Many other Southwick’s were involved in the founding of the United States. This heritage was very important to George and he always wanted his children to remember it.
