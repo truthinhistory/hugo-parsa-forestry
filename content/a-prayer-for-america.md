@@ -3,7 +3,7 @@ title: A Prayer for America
 date: '2022-01-28T00:00:00.000-06:00'
 description: Coin of Silver American Money - In God We Trust
 type: post
-image: "/images/depositphotos_39457977_xl.jpg"
+image: "/images/in-god-we-trust.jpg"
 categories: []
 tags: []
 
