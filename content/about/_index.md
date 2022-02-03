@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: About George W. Southwick
-image: images/author.jpg
+image: "/images/screenshot-2022-01-17-at-5-40-58-pm.png"
 
 ---
 **Biography**
