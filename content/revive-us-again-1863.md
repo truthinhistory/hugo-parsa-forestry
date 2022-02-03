@@ -3,13 +3,11 @@ title: Revive Us Again - 1863
 date: '2022-01-28T00:00:00.000-06:00'
 description: Emergency at hospital
 type: post
-image: "/images/depositphotos_2601105_xl.jpg"
+image: "/images/emergency-room.jpg"
 categories: []
 tags: []
 
 ---
-**By Robert J. Morgan**
-
 "Will you not revive us again, that your people may rejoice in You?" Psalm 85:6
 
 In his own words, here is the testimony of Scottish doctor, W.P. Mackay, author of "Revive Us Again."
