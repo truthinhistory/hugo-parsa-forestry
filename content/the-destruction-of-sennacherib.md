@@ -3,7 +3,7 @@ title: The Destruction of Sennacherib
 date: '2022-01-28T00:00:00.000-06:00'
 description: Angel of Lord Slays Assyrian Army
 type: featured
-image: "/images/depositphotos_105719392_xl.jpg"
+image: "/images/angel-fighting.jpg"
 categories: []
 tags: []
 
