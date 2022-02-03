@@ -8,11 +8,6 @@ categories: []
 tags: []
 
 ---
-**A Prayer for America**
-
-  
-**By Pastor George W. Southwick, D.D.**
-
 Our Father, which art in heaven, we have not hallowed Thy Name, we are in a storm, Thy mournful remnant is in anguish. LORD, in wrath remember mercy.
 
 Gather America under the shadow of Thy wing. Look upon us who have eaten the fruit of lies. Turn us, we pray, to seek Thy face and Thy way. We confess now our sins, for vain and fruitless is mortal strength. Evil and wickedness now fills our land and cities. We know not where to turn in this dark hour, but unto Thee.
