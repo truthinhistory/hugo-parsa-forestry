@@ -3,7 +3,7 @@ title: Admonitions for Intellectual Honesty
 date: '2022-01-28T00:00:00.000-06:00'
 description: Integrity in dictionary
 type: post
-image: "/images/depositphotos_33253185_xl.jpg"
+image: "/images/integrity.jpg"
 categories: []
 tags: []
 
