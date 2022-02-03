@@ -3,14 +3,12 @@ title: Quotes by Famous Men
 date: '2022-01-28T00:00:00.000-06:00'
 description: Old books, scrolls, ink pen and inkwell on wooden table on brown background
 type: featured
-image: "/images/depositphotos_11869479_xl.jpg"
+image: "/images/old-books.jpg"
 categories: []
 tags: []
 
 ---
-**Quotes by Famous Men**
-
-The following are important pronouncements by prominent men of Biblical learning. Some clearly state their belief in the fact that the Anglo-Saxon and related peoples are the literal descendents of ancient Israel. While others, such as Wm. Tyndale indicate that there is at least a linguistic connection.
+The following are important pronouncements by prominent men of Biblical learning. Some clearly state their belief in the fact that the Anglo-Saxon and related peoples are the literal descendants of ancient Israel. While others, such as Wm. Tyndale indicate that there is at least a linguistic connection.
 
 “The properties of the Hebrew tongue agree a thousand times more with the English than with the Latin.”
 
