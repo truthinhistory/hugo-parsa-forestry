@@ -3,13 +3,11 @@ title: Salvation through Jesus Christ
 date: '2022-01-28T00:00:00.000-06:00'
 description: Salvation through Jesus Christ
 type: featured
-image: "/images/depositphotos_39619909_xl.jpg"
+image: "/images/holy-bible.jpg"
 categories: []
 tags: []
 
 ---
-**Salvation through Jesus Christ**
-
 “For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.” (Romans 6:23)
 
 “But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:" (John 1:12)
@@ -18,8 +16,8 @@ tags: []
 
 “Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born? Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again.” John 3:3-7
 
-**All are Sinners - We cannot Save Ourselves**  
-  
+**All are Sinners - We cannot Save Ourselves**
+
 “For all have sinned, and come short of the glory of God;” (Romans 3:23)
 
 “As it is written, There is none righteous, no, not one:” (Romans 3:10)
