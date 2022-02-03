@@ -8,8 +8,6 @@ categories: []
 tags: []
 
 ---
-**Where are the Classmates of Yesterday?**
-
 Where are the classmates of yesterday?  
 The children we knew in school . . .  
 Oh, what has become of the studious one?  
