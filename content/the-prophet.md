@@ -3,7 +3,7 @@ title: The Prophet
 date: '2022-01-28T00:00:00.000-06:00'
 description: The Prophet
 type: featured
-image: "/images/depositphotos_22520023_xl.jpg"
+image: "/images/jesus-hands.jpg"
 categories: []
 tags: []
 
