@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-01-28T00:00:00-06:00
+date: 2022-01-28T00:00:00.000-06:00
 description: Contact the ministry
 image: images/contact.jpg
 
@@ -11,9 +11,8 @@ Recordings and messages by Pastor George Southwick.
 
 **Links:**
 
-☐ [TruthInHistory.org](http://www.truthinhistory.org/)
-
-☐ [Historicist.com](http://www.historicist.com/)
+* [TruthInHistory.org](http://www.truthinhistory.org/)
+* [Historicist.com](http://www.historicist.com/)
 
 **Contact:**
 
