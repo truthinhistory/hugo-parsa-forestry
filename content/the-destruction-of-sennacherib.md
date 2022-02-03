@@ -8,10 +8,6 @@ categories: []
 tags: []
 
 ---
-**The Destruction of Sennacherib**
-
-**Isaiah 37:36-38**
-
 The Assyrian came down like the wolf on the fold, And his cohorts were gleaming with purple and gold, And the sheen of their spears was like stars on the sea, When the blue wave rolls nightly on deep Galilee.
 
 Like the leaves of the forest when Summer is green, That host with banners at sunset were seen.
@@ -55,3 +51,5 @@ Lay melted like snow in the glance of the Lord.
 by Lord George Gordon Byron
 
 1788-1824
+
+**Isaiah 37:36-38**
