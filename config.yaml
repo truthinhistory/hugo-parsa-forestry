@@ -52,7 +52,7 @@ params:
   email: cmdjen@juno.com
   address: PO BOX 808 Owasso, OK 74055
   contact_form_action: "#"
-  google_analitycs_id: G-DMF2DHRN8R
+  google_analitycs_id: UA-219336890-2
   copyright: Copyright &copy; 2007-2022 The Bible Educator
   instafeed:
     enable: false
